@@ -7,6 +7,7 @@
 ../src/components/Firebase/firebase.js
 ../src/components/Firebase/
 /src/components/Firebase/
+/Firebase
 
 # testing
 /coverage
