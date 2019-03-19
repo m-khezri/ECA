@@ -1,2 +1,11 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+
+class PasswordForgetPage extends React.Component {
+  render() {
+    return (
+      <h1>PasswordForget</h1>
+    );
+  }
+}
+
+export default PasswordForgetPage;

@@ -1,2 +1,11 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+
+class SignOut extends React.Component {
+  render() {
+    return (
+      <h1>SignOut</h1>
+    );
+  }
+}
+
+export default SignOut;
