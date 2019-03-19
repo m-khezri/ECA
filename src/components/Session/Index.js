@@ -1,11 +1,3 @@
-import React from 'react';
+import AuthUserContext from './context';
 
-class Session extends React.Component {
-  render() {
-    return (
-      <h1>Session</h1>
-    );
-  }
-}
-
-export default Session;
+export { AuthUserContext };
